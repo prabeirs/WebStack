@@ -1,0 +1,1 @@
+ES2015 Javascript arrow function (=>) applications to one line multi-lined functions.
