@@ -1,0 +1,1 @@
+These are snippets of ES2015 Javascript Rest & Spread operators few basic applications.
